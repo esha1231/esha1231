@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github.;Hey+There 🙋‍♀️+I+Am+Esha !!;Passionate+about+Technology,+Driven+by+Data.;&font=Arial&center=true&width=1000&height=50&duration=4000&pause=1000&size=30&color=3CB371" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github.;Hey+There 🙋‍♀️+I+Am+Esha !!;Passionate+about+Technology,+Driven+by+Data.;&font=Arial&center=true&width=1000&height=50&duration=4000&pause=1000&size=30&color=8B4513" alt="Example Usage - README Typing SVG">
 
 Hi 👋 My name is S Esha
 =======================
